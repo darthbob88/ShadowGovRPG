@@ -24,87 +24,15 @@ Based off this 4Chan thread: [http://suptg.thisisnotatrueending.com/archive/1274
 
 Big rule: If you see a problem, don&#39;t just point it out, correct it. &quot;That group wouldn&#39;t be responsible for that jurisdiction, it&#39;d be some other group or responsibility.&quot;
 
-## Table of Contents
-
-[Tone](#_l2z62envhe9f)
-
-[Separate flavor-/gameplay-changing options:](#_i7m8hboyjkl3)
-
-[Inspiration](#_25ro6om5kda)
-
-[Explanations](#_p9wz6qbu1x8j)
-
-[Mechanics](#_77mz5b1eq73t)
-
-[General moves and Stats](#_i8zq6dtfyf90)
-
-[Classes/Player Options](#_5pqhwaaitfth)
-
-[NRC Mad Scientist (Artificer/Gadgeteer)](#_hynuuoo205i)
-
-[IRS Necromancer](#_9pcblx7j6k22)
-
-[BLM troglodyte (Dwarf)](#_x6ikd9pfxzkb)
-
-[NPS ranger (Ranger, tracker, outdoorsy type)](#_ojkxpt3vyc3g)
-
-[Library of Congress Researcher (Field Brainiac)](#_l5ua95l5s7m)
-
-[10th Mountain veteran (Muscle, Fighter but useful)](#_lq2ej1y6hn4d)
-
-[ATF Combat Wizard (Wizard)](#_2x6642beba0x)
-
-[FDA Alchemist (Versatile buffer)](#_5n4ywqwgiu2w)
-
-[BIA Gambler(Probability magic)](#_bvfpl1soch3m)
-
-[CIA Cleaner (Sneaky Sumbitch)](#_lbnc2bevm0qi)
-
-[NASA/ICE Xenophile (Aliens)](#_qhsqwfcg6vs)
-
-[Smithsonian Shaman (Shaman/Stance)](#_osbkfc3vrtf5)
-
-[Equipment](#_5zlgyx6lbmz4)
-
-[Artifacts](#_vu81d4hwf94)
-
-[Plot](#_uga2bs3n36z3)
-
-[Basic Plot](#_z0em0icdd7o1)
-
-[Example Threats](#_9z30hpdxvazg)
-
-[HAARP](#_del546hzz9nn)
-
-[Doctor Durden](#_5ndwyj7onx7h)
-
-[Esoteric Order of Dagon](#_gam803yfw09)
-
-[Majestic 12, AKA MJ12](#_kq7z9zmb7zgc)
-
-[Initiative Montauk](#_by8vrj4ifb7d)
-
-[Red Force](#_x0n3cpaok7iq)
-
-[Hegemonizing Groups](#_jxedz7rdcx9b)
-
-[Unethical Researcher](#_sy5983hwd2ab)
-
-[Powers In Their Own Right](#_9p65a7awpz06)
-
-[Miscellaneous Sketchy Shit](#_436zpors72wi)
-
-=====================================================================
-
 ## Tone
 
 Probably simplest to go with choice of three tones, like Paranoia or Night&#39;s Black Agents.
 
-1. Straight horror, a la Delta Green or SCP. There are monsters out there, you can&#39;t win, all you can do is keep everybody from dying _today_. Focus on the human cost of dealing with monsters, the need to destroy all evidence and witnesses, and the bureaucratic, or possibly literal, knife fights for resources and survival. Characters don&#39;t retire, they just die.
+1. Straight horror, a la Delta Green or SCP. There are monsters out there, you can&#39;t win, all you can do is keep everybody from dying _today_. Focus on the human cost of dealing with monsters, the need to destroy all evidence and witnesses, and the bureaucratic, or possibly literal, knife fights for resources and survival. Characters don&#39;t retire, they just die. <br/>
 _Yesterday I watched three of my closest friends, men and women I went through the academy with, die screaming in a raid on a vampire coven. Today I watched a vampire drain a girl dry, because he was kind enough to tell us about that coven. Tomorrow I&#39;ll have to explain to a family that their darling daughter is gone forever, but I can&#39;t tell them why. You want a happy ending? You&#39;re alive to read this, isn&#39;t that happy enough?_
-1. Tongue-in-cheek, after the MIB movies and/or the more bureaucratic sections of The Laundry. There are monsters out there, but the worst are the ones in payroll. Focus on the farce of being an ISO 9000 quality-assured occult bureaucracy, of hassling elves to have all their paperwork in order, of trying to discredit your colleagues for the last cut of the budget pie. Characters retire to management, where they can screw over other new agents.
+2. Tongue-in-cheek, after the MIB movies and/or the more bureaucratic sections of The Laundry. There are monsters out there, but the worst are the ones in payroll. Focus on the farce of being an ISO 9000 quality-assured occult bureaucracy, of hassling elves to have all their paperwork in order, of trying to discredit your colleagues for the last cut of the budget pie. Characters retire to management, where they can screw over other new agents. <br/>
 _Yes, I am aware miss.. Carmella le Rouge? that as a vampire you must dine upon the blood of the living, however we must ask you to stop feeding on homeless people and barflies, as neither you nor the government can afford to publicly acknowledge the existence of vampires. If you can refrain for the next day or two, we can see about getting you set up with an account at a local blood bank, and possibly some other employment._
-1. Hijinx/Dept of D&amp;D, like slapstick Paranoia and/or standard dungeon crawl. There are monsters out there, and I&#39;m going to kick them in the face. Focus on the fact that you&#39;re kicking monsters in the face. Characters never retire, they just go on to kick bigger monsters in the face.
+3. Hijinx/Dept of D&amp;D, like slapstick Paranoia and/or standard dungeon crawl. There are monsters out there, and I&#39;m going to kick them in the face. Focus on the fact that you&#39;re kicking monsters in the face. Characters never retire, they just go on to kick bigger monsters in the face. <br/>
 _Butt kicking for goodness!_
 
 ## Separate flavor-/gameplay-changing options
@@ -178,9 +106,14 @@ Your choice of several.
 
 ## Mechanics
 
-PbtA, with a few new moves for general skulduggery and class-specific moves for each department, which would also mean anybody can crosstrain with any other department with a little work/RP justification/XP.
+The basic mechanic is Powered by The Apocalypse, with some hacking. That means for any given action, you declare what move you're going to use, then roll 2 six-sided dice and add the relevant skill. If the dice + your skill sum to 6 or less, you fail, if they sum to 7-9, you succeed partially, and if they sum to 10+ you succeed entirely.
 
-Stats: At the very least need Know/Talk/Shoot Shit stats, and some resource for calling backup. Am powerfully tempted to differentiate Punch and Shoot Shit, or at least come up with something for &quot;I am super tough and can ignore getting shot/punched/poisoned&quot;. Likewise, should probably come up with something for &quot;Sneaky deniable shenanigans&quot;, but can&#39;t see good use that other stats don&#39;t really cover; you&#39;re either shooting things in an underhanded fashion, applying illegal skills, or telling lies to civilians. Actually, &quot;illegal skills&quot; is probably good enough; roll +Covert to sneak/hack/whatever, but +Combat to sneak attack somebody or +Persuade to tell a civilian all they saw was a weather balloon.
+Stats:
+
+- **Fight** - For pretty much any violent stuff you need to do. If you're shooting, punching, stabbing, or calling in an artillery strike on something, this is the stat to use.
+- **Public Relations** - Charm and persuasion. If you're telling somebody that all they saw was some swamp gas, or asking the FBI station chief to lend you a forensic team to analyze a scene, this is the stat to use.
+- **Brains** - This is your "knowing stuff" stat, covering both pre-existing knowledge and analysis. If you need to know what a Rigellian's favorite food is, or what left some tracks, this is the stat to use.
+- **Covert** - Sneaky stuff. If you need to hack into somebody's servers, impersonate somebody, or sneak into a location, this is the stat to use.
 
 ## General moves and Stats
 
